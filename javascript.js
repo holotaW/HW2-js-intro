@@ -6,15 +6,15 @@ console.log(a + b)
 
 a = 4;
 b = 2;
-console.log(a + b)
+console.log(a - b)
 
 a = 5;
 b = 6;
-console.log(a + b)
+console.log(a * b)
 
 a = 100;
 b = 5;
-console.log(a + b)
+console.log(a / b)
 
 console.log('Пункт №6')
 
